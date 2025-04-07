@@ -22,7 +22,7 @@ function LandingPage() {
       <Card>
         <Flex direction="column" gap="2" align="center" style={{ height: '100%' }}>
           <div style={{ textAlign: 'center' }}>
-            <h2>Allowlist Example</h2>
+            <h2>Allowlist Examplee</h2>
             <p>
               Shows how a creator can define an allowlist based access. The creator first creates an
               allowlist and can add or remove users in the list. The creator can then associate
@@ -30,7 +30,7 @@ function LandingPage() {
               the files.
             </p>
           </div>
-          <Link to="/allowlist-example">
+          <Link to="/allowlist-examplee">
             <Button size="3">Try it</Button>
           </Link>
         </Flex>
